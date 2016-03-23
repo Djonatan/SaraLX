@@ -29,7 +29,7 @@ namespace WaveWPF
 
         private void passwordtextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-
+            MessageBox.Show("Диагностика жопы ннада?");
         }
     }
 }
